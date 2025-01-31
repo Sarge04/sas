@@ -1,0 +1,183 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt" >
+   <head>
+       <title>SARGE</title>
+       <meta http-equiv="Content-Type" content="text/html; charset=OEM 860: portugais" />
+	   <link rel="stylesheet" media="screen" type="text/css" title="Design" href="designSAS.css" />
+   </head>
+   
+    <link rel="icon" type="image/jpg" href="favicon.jpg" />
+ 
+   <body>
+  <div id="corps1"> 
+        <!-- L'en-tête -->
+       <div id="en_tete">
+           
+       </div>
+       <!-- Les menus haut-->
+	   
+  <div id="menu2">
+<ul>
+<li><a href="index.html">Índice</a></li>
+<li><a href="Galeria.html">Galeria</a></li>
+<li><a href="EquipaSAS.html">Membros</a></li>
+<li><a href="Recrutamento.html">Recruta</a></li>
+<li><a href="calendrierSAS.html">Calendário</a></li>
+<li><a href="sarge/Sarge.html"><img src = "images/sargebouton2.png" alt="Sarge"/></a></li>
+<li><a href="Alianca.html">Aliança</a></li>
+<li><a href="ContactosSAS.html">Contactos</a></li>
+
+
+</ul>
+</div>
+
+
+ 
+
+ 
+       <!-- Le corps -->
+ <div id="corps2"><h1>Aliança</h1></div>
+       <div id="corps">
+	   
+	   <h3>O que é á Aliança?</h3>
+	   
+	   <p>Á Aliança é um conjunto de equipas certificadas pela nossa equipa com quais já jogamos por várias ocasiões e "certificamos" como sendo equipas de confiança, ou seja sem imortais, sem crentes ou jogadores problematicos.
+	   Portanto são equipas amigas que partilham a mesma filosofia de jogo que nós e que recomendamos á qualquer outra equipa de Airsoft.</p>
+</div>
+
+<div id="corps2">	   
+	     
+<center><table>
+		 <br/>
+		 
+		 	<tr>  <th>Símbolo</th>                <th>Dados Equipa</th>		 							 
+		  
+		 <tr><td>
+		 <p><img src= "images/dreamteam/sod.jpg" alt="sod"/></td>										
+		  <td>
+		  <p>Nome: Stormtrooper of Death<br/>
+		  Sigla: SOD<br/>
+		  Localização: Leiria<br/>
+		  Tipo de Equipa: MilSim<br/>
+		  Team Leader: Dark<br/>
+		  Facebook: <a href="https://www.facebook.com/sodairsoft">SOD</a><br/>
+		  </p></td>	</center></tr>
+		  
+		  		  		  
+		 <tr><td>
+		 <p><img src= "images/dreamteam/alianz.png" alt="allianz"/></td>										
+		  <td>
+		  <p>Nome: Lusitanus Allianza Airsoft Clube<br/>
+		  Sigla: /<br/>
+		  Localização: Valongo<br/>
+		  Tipo de Equipa: MilSim<br/>
+		  Team Leader: Ilídio Bernardo<br/>
+		  Facebook: <a href="https://www.facebook.com/lusitanusallianzaairsoftclube">Lusitanus Allianza Airsoft Clube</a><br/>
+		  </p></td>	</center></tr>
+		  
+		  
+		  <tr><td>
+		  <p><img src= "images/dreamteam/SAD.jpg" alt="sad"/></td>										
+		  <td>
+		  <p>Nome: Special Activities Division<br/>
+		  Sigla: SAD<br/>
+		  Localização: Chaves<br/>
+		  Tipo de Equipa: MilSim<br/>
+		  Team Leader: /<br/>
+		  Facebook: <a href="https://www.facebook.com/SADairsoft">Special Activities Division</a><br/>
+		  </p></td>	</center></tr>
+
+	
+		  <tr><td>
+		  <p><img src= "images/dreamteam/UNIT.png" alt="UNIT"/></td>										
+		  <td>
+		  <p>Nome: Unidade Nacional de Intervenção Táctica<br/>
+		  Sigla: UNIT<br/>
+		  Localização: Penafiel<br/>
+		  Tipo de Equipa: MilSim<br/>
+		  Team Leader: Bravo<br/>
+		  Facebook: <a href="https://www.facebook.com/unit.brigada.assalto">UNIT</a><br/>
+		  </p></td>	</center></tr>
+	
+	
+			  
+		  
+		  <tr><td>
+		  <p><img src= "images/dreamteam/gts.png" alt="GTS"/></td>										
+		  <td>
+		  <p>Nome: Grupo Táctico de Softair<br/>
+		  Sigla: GTS<br/>
+		  Localização: Porto<br/>
+		  Tipo de Equipa: MilSim<br/>
+		  Team Leader: Bruno Silva<br/>
+		  Facebook: <a href="https://www.facebook.com/GrupoTacticoSoftairGTS">GTS</a><br/>
+		  </p></td>	</center></tr>
+		  
+		  
+		  
+		  <tr><td>
+		  <p><img src= "images/dreamteam/DAZO.jpg" alt="DAZO"/></td>										
+		  <td>
+		  <p>Nome: Destacamento Airsoft Zona Oeste<br/>
+		  Sigla: DAZO<br/>
+		  Localização: /<br/>
+		  Tipo de Equipa: MilSim<br/>
+		  Team Leader: /<br/>
+		  Facebook: <a href="https://www.facebook.com/dazoairsoft">DAZO</a><br/>
+		  </p></td>	</center></tr>
+
+		  
+		  <tr><td>
+		  <p><img src= "images/dreamteam/maddogs.png" alt="Mad Dogs"/></td>										
+		  <td>
+		  <p>Nome: Mad Dogs<br/>
+		  Sigla: /<br/>
+		  Localização: Aveiro<br/>
+		  Tipo de Equipa: MilSim<br/>
+		  Team Leader: Cadito<br/>
+		  Facebook: <a href="https://www.facebook.com/maddogsairsoft">Mad Dogs</a><br/>
+		  </p></td>	</center></tr>
+
+
+		  
+		  <tr><td>
+		  <p><img src= "images/dreamteam/hellhounds.jpg" alt="hellhounds"/></td>										
+		  <td>
+		  <p>Nome: Hellhounds<br/>
+		  Sigla: /<br/>
+		  Localização: Alcobaça<br/>
+		  Tipo de Equipa: MilSim<br/>
+		  Team Leader: Henrique Mauricio<br/>
+		  Facebook: <a href="https://www.facebook.com/clube.airsoft.oeste">Hellhounds</a><br/>
+		  </p></td>	</center></tr>
+		  
+
+		  
+		  <tr><td>
+		  <p><img src= "images/dreamteam/DAM.jpg" alt="DAM"/></td>										
+		  <td>
+		  <p>Nome: DAM Airsoft Team<br/>
+		  Sigla: DAM<br/>
+		  Localização: Torres Vedras<br/>
+		  Tipo de Equipa: MilSim<br/>
+		  Team Leader: Mata<br/>
+		  Facebook: <a href="https://www.facebook.com/DAMAIRSOFT">DAM</a><br/>
+		  </p></td>	</center></tr>
+
+
+		 </table></center>
+		  
+		 </div>
+ </div>	      	   	    
+	 
+       <!-- Le pied de page -->
+ 
+       <div id="pied_de_page">
+Copyright 2019-2029<br/>site criado por Sarge
+
+
+       </div>
+ 	    </div>
+
+   </body>
+</html>
