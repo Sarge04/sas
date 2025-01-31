@@ -1,0 +1,270 @@
+
+body
+{
+   width: 850px;
+   margin: auto;
+   margin-top: 20px;
+   margin-bottom: 20px;    
+   background: #000000 url("images/fond/fond-gris2.jpg");
+   background-attachment: fixed;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   background-position: top;
+
+}
+
+
+/* L'en-tête */
+
+#en_tete
+{
+   width: 836px;
+   height: 305px;
+   background-image: url("images/bannieresite.jpg");
+   background-repeat: no-repeat;
+   margin-bottom: 10px;
+  
+}
+
+
+/* Le menu */
+
+#menu2 {
+
+	float: left;
+	width: 834px;
+	padding-left: 0px;
+	background: url(images/menu.gif) repeat-x;
+}
+#menu2 ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	line-height: normal;
+}
+
+#menu2 li {
+	float: left;
+}
+
+#menu2 a {
+
+	display: block;
+	float: left;
+	height: 25px;
+	width: 104px;
+	text-align:center;
+	text-decoration: none;
+	font-size: 1.1em;
+	font-weight: bold;
+	color: #ffffff;
+	padding-top: 0px;
+	border-bottom : 1px solid black; /*marge /trait/ en dessous des bouttons */
+}
+
+#menu2 a:hover {
+	background: url(images/menu.gif) repeat-x;
+	color: #4cf205;
+}
+
+#menu
+{
+   float: left;
+   width: 160px;
+}
+
+.element_menu
+{
+   margin-top: 12px;
+   margin-left: 0px;
+   background-color: #131a21;
+   background-image: url("images/menu7.gif");
+   background-repeat: repeat-x;
+   
+   border: 1px solid black;
+   
+   margin-bottom: 10px;
+}
+
+.element_menu1
+{
+   background-color: #131a21;
+   margin-left: 0px;
+   background-repeat: repeat-x;
+   
+   border: 1px solid black;
+   
+   margin-bottom: 10px;
+}
+
+
+.element_menu1 a
+{
+   color: white;
+   text-decoration:none
+}
+
+.element_menu1 a:hover
+{
+   background-color: #B3B3B3;
+   color: white;
+}
+
+/* Quelques effets sur les menus */
+
+
+.element_menu h3
+{    
+   color: white;
+   font-family: Georgia, Arial, "Arial Black", "Times New Roman", Times, serif;
+   text-align: center;
+}
+
+.element_menu a
+{
+   color: white;
+   text-decoration:none
+}
+
+.element_menu a:hover
+{
+   background-color: #B3B3B3;
+   color: white;
+}
+
+
+/* Le corps de la page */
+
+#corps
+{
+   margin-left: 0px;
+
+   margin-bottom: 0px;
+   padding: 5px;
+   
+   color: white;
+   background-color: #131a21;
+   background-image: url("images/motif.png");
+   background-repeat: repeat-x;
+   
+   border: 1px solid black;
+}
+
+#corps h1
+{
+   color: white;
+   text-align: center;
+   font-family: Georgia, Arial, "Arial Black", "Times New Roman", Times, serif;
+}
+
+#corps h2
+{
+   height: 30px;
+
+   background-image: url("images/titre.png");
+   background-repeat: no-repeat;
+   
+   padding-left: 30px;
+   color: white;
+   text-align: left;
+}
+
+
+/* Le pied de page (qui se trouve tout en bas, en général pour les copyrights) */
+
+#pied_de_page
+{
+   padding: 5px;
+
+   text-align: center;
+
+   color: #B3B3B3;
+   background-color: #111518;
+   background-image: url("images/motif.png");
+   background-repeat: repeat-x;
+   
+   border: 1px solid black;
+}
+
+
+
+#oldpage
+{
+ text-align: center;
+   margin-left: 170px;
+   margin-bottom: 10px;
+   padding: 5px;
+   
+   color: white;
+   background-color: #131a21;
+
+   background-repeat: repeat-x;
+   
+   border: 1px solid black;
+}
+
+#corps1
+{
+   margin-left: 0px;
+   margin-bottom: 0px;
+   padding: 5px;
+   
+   color: white;
+   background-color: #111518;
+   background-image: url("images/x1.gif");
+   background-repeat: repeat-x;
+    /*filter : alpha(opacity=50);
+    -moz-opacity : 0.7;
+    opacity : 0.7;*/ 
+   
+   border: 2px solid black;
+}
+
+
+#corps2
+{
+margin-top: 50px;
+   margin-left: 0px;
+   margin-bottom: 10px;
+   padding: 5px;
+   text-align: center;   
+   color: white;
+   background-color: #131a21;
+   background-image: url("images/motif.png");
+   background-repeat: repeat-x;
+   
+   border: 1px solid black;
+}
+
+.images_jeux_trial
+{
+   float: left;
+   margin-right: 5px
+
+}
+.alignement
+{
+   text-align: center; /* Pour centrer le texte de description*/
+}
+
+.download
+{
+   text-decoration: none; /* Les liens ne seront plus soulignés */
+   color: #131a21; /* Les liens  contours seront de la même couleur que le font de page donc en #626262 au lieu de mauve par defaut */
+}
+
+.element_lien  /*c'est les effet pour que les liens restent blancs sur le corp, malheureusement pas d'effet possible (hover)tant que le bouton
+télécharger restera "coller" au paragraphe de description des jeux */
+{
+ color: white
+}
+
+td /* Toutes les cellules des tableaux... */
+{
+   border: 1px solid black; /* ... auront une bordure de 1px */
+}
+
+td, th /* Mettre une bordure sur les td ET les th */
+{
+   border: 1px solid black;
+}
